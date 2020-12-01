@@ -1,0 +1,193 @@
+/* 
+	Global classes 
+					*/
+
+/* my accent colors:
+gray 		 hsl(0, 0%, 16%)
+purple 		 hsl(266, 95%, 75%)
+black bg  	 hsl(0, 0%, 7%)*/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: hsl(0, 0%, 7%);
+	color: #FFF;
+	margin: 0;
+	padding-top: 250px; /* stops it from being under the navbar */
+}
+
+/* 
+	Navbar 
+			*/
+#navbar {
+  overflow: hidden;
+  background-color: hsl(0, 0%, 16%);
+  padding: 10px 10px; /* padding shrinks on scroll */
+  transition: 0.4s; /* transition effect*/
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+  font-size: 25px; /* 'large' font size for left text */
+
+}
+
+#navbar-left{
+	float: left;
+	transition: 0.4s;
+}
+
+/* Display buttons to the right */
+#navbar-right {
+  float: right;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style the navbar links */
+#navbar-right a {
+  float: left;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 25px;
+  border-radius: 4px;
+  color: hsl(266, 95%, 75%); /* purple text */
+}
+
+/* Links on mouse-over */
+#navbar-right a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the active/current link - about, resume, or contact*/
+#navbar a.active {
+  background-color: hsl(266, 95%, 75%); /* purple */
+  color: #ddd; /* off white */
+}
+
+/* Add responsiveness - on screens less than 580px wide, display the navbar vertically instead of horizontally */
+@media screen and (max-width: 580px) {
+  #navbar {
+    padding: 20px 10px !important; /* Use !important to make sure that JavaScript doesn't override the padding on small screens */
+  }
+  #navbar a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  #navbar-right {
+    float: none;
+  }
+}
+
+/* remove underline/change color links*/
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover 
+{
+     color: hsl(266, 95%, 75%); /* purple */
+     cursor: pointer;
+}
+
+/* 
+	Projects on landing page
+			                  */
+#projects-wrapper {
+    display: flex;
+    flex-wrap: wrap; /* makes projects move down if screen is resized */
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.project-art {
+	width: 360px;
+	height: 240px;
+	margin: 20px;
+}
+
+.landing-project-name {
+	font-weight: bold;
+	font-size: 18px;
+	margin: 0px;
+}
+
+
+/*
+	Project/About pages
+				  */
+
+.page-contents {
+	display:flex;
+	margin: 0px 20px 0px 20px;
+}
+
+#about-img {
+	width: 225px;
+	height: 300px;
+	margin-left: 15px;
+}
+
+/*
+	Contact page
+				*/
+
+#contact-contents {
+	margin: 0px 20px 0px 20px;
+}
+
+#contact-contents div {
+	padding: 8px;
+}
+
+.contact-logo {
+	width: 30px;
+	height: 30px;
+	padding-right: 5px;
+}
+
+/*
+	Resume page
+				*/
+
+#resume-contents {
+	margin: 0px 20px 10px 20px;
+}
+
+#resume-contents p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#resume-contents ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.resume-heading {
+	font-weight: bold;
+}
+
+.resume-left {
+	float: left;
+}
+
+.resume-right {
+	float: right;
+}
+
+.resume-ital {
+	font-style: italic;
+}
+
+#skills-table {
+	display: flex;
+}
+
+#skills-table div {
+	width: 150px;
+}

@@ -55,7 +55,7 @@ function scrollFunction() {
 var projects = [
 {
 	title: "Music Player",
-	img_source: "images/musicplayer.jpg",
+	img_source: "images/musicplayer.JPG",
 	page_link: "music-player.html",
   description: `<p>Created: Fall 2020, CS 330.</p>
   <p>The Music Player is an implementation of a basic music player using Javascript, HTML, and CSS. 
@@ -63,7 +63,7 @@ var projects = [
 },
 {
 	title: "Junk Drawer Menagerie",
-	img_source: "images/menagerie-overview-copy.jpg",
+	img_source: "images/menagerie-overview.jpg",
 	page_link: "menagerie.html",
   description: `<p>Created: Spring 2020, DTC-2.</p>
   <p>Team members: Grace Huff, Will Buchsbaum, Damian Staszel.</p>
@@ -81,7 +81,7 @@ var projects = [
 },
 {
 	title: "The Excellever",
-	img_source: "images/excellever-poster-copy.jpg",
+	img_source: "images/excellever-poster.jpg",
 	page_link: "excellever.html",
   description: `<p>Created: Winter 2020, DTC-1.</p>
   <p>Team Members: Jordan Dillard, Alex Montes, Nick Tsung.</p>

@@ -3,13 +3,13 @@
           */
 var inactive_list = [
   `<a href="about.html">ABOUT</a>`,
-  `<a href="resume.html">RESUME</a>`,
+  `<a href="https://drive.google.com/file/d/1dNs5nN5jvuCnGbWjGyyKdt9BqEWpWw4V/view?usp=sharing">RESUME</a>`,
   `<a href="contact.html">CONTACT</a>`
 ];
 
 var active_list = [
   `<a href="about.html" class="active">ABOUT</a>`,
-  `<a href="resume.html" class="active">RESUME</a>`,
+  `<a href="https://drive.google.com/file/d/1dNs5nN5jvuCnGbWjGyyKdt9BqEWpWw4V/view?usp=sharing" class="active">RESUME</a>`,
   `<a href="contact.html" class="active">CONTACT</a>`
 ];
 
@@ -54,18 +54,30 @@ function scrollFunction() {
             */
 var projects = [
 {
-	title: "Music Player",
-	img_source: "images/musicplayer.JPG",
-	page_link: "music-player.html",
-  description: `<p>Created: Fall 2020, CS 330.</p>
-  <p>The Music Player is an implementation of a basic music player using Javascript, HTML, and CSS. 
-  The purpose of this project is to practice creating basic webpages.</p>`
+	title: "Model of Featherweight Java",
+	img_source: "images/Grey_full.png",
+	page_link: "fj.html",
+  description: `<p>Winter 2021 | CS 396 Dynamics of Programming Languages</p>
+  <p>Collaborator: Sydney Smith.</p>
+  <p>Studied and presented the basic properties of Java via <a href=
+  "https://www.cis.upenn.edu/~bcpierce/papers/fj-toplas.pdf">
+  Featherweight Java by Igarashi et al.</a> Implemented and tested an executable model 
+  of Featherweight Java in PLT Redex and Racket.</p>`
 },
 {
-	title: "Junk Drawer Menagerie",
-	img_source: "images/menagerie-overview.jpg",
+  title: "Programming Languages (321)",
+  img_source: "images/Grey_full.png",
+  page_link: "pl-321.html",
+  description: `<p>Fall 2020</p>
+  <p>Created and extended interpreter-based implementations of basic features of programming languages. 
+  Studied the basic semantic features of call-by-value programming languages. 
+  Examined random program generation for basic call-by-value programming languages.</p>`
+},
+{
+	title: "Menagerie Design Project",
+	img_source: "images/Grey_full.png",/* menagerie-overview.jpg", */
 	page_link: "menagerie.html",
-  description: `<p>Created: Spring 2020, DTC-2.</p>
+  description: `<p>Spring 2020 | DTC-2</p>
   <p>Team members: Grace Huff, Will Buchsbaum, Damian Staszel.</p>
   <p>The Junk Drawer Menagerie was a collaboration with 3 team members to research and compile 
   two technical instruction manuals for working with household objects. Client interviews, research, 
@@ -80,10 +92,10 @@ var projects = [
   information to be employed by both the therapist and the patient.</p>`
 },
 {
-	title: "The Excellever",
-	img_source: "images/excellever-poster.jpg",
+	title: "Excellever Design Project",
+	img_source: "images/Grey_full.png",/*excellever-poster.jpg", */
 	page_link: "excellever.html",
-  description: `<p>Created: Winter 2020, DTC-1.</p>
+  description: `<p>Winter 2020 | DTC-1</p>
   <p>Team Members: Jordan Dillard, Alex Montes, Nick Tsung.</p>
   <p>The Excellever was a collaboration with 3 team members to research, document, and construct 
   a physical design project.</p>

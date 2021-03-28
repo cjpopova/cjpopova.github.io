@@ -55,7 +55,7 @@ function scrollFunction() {
 var projects = [
 {
 	title: "Model of Featherweight Java",
-	img_source: "images/fj-traces.JPG",
+	img_source: "images/fj-traces.jpg",
 	page_link: "fj.html",
   description: `<p>Winter 2021 | <u><a href='https://www.mccormick.northwestern.edu/computer-science/academics/courses/descriptions/396-496-15.html'>
   CS 396 Dynamics of Programming Languages</a></u></p>
@@ -102,14 +102,6 @@ var projects = [
   of comprehensive instructions, paired to a touch-tone telephone and an analog alarm clock, respectively. 
   These instructions contain a number of different tasks related to each device, along with key pieces of 
   information to be employed by both the therapist and the patient.</p>`
-},
-{
-  title: "Snake Video Game",
-  img_source: "images/Grey_full.png",
-  page_link: "snake.html",
-  description: `<p>Winter 2020 | CS 211</p>
-  <p>Collaborator: Mieraf Mulat.</p>
-  <p>Implemented snake video game</p>`
 },
 {
 	title: "Excellever Design Project",

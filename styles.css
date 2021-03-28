@@ -108,13 +108,13 @@ a:hover
 .project-art {
 	width: 360px;
 	height: 240px;
-	margin: 20px;
+	margin: 20px 20px 10px 20px;
 }
 
 .landing-project-name {
 	font-weight: bold;
 	font-size: 18px;
-	margin: 0px;
+	margin: 0px 0px 10px 0px;
 }
 
 
@@ -149,45 +149,4 @@ a:hover
 	width: 30px;
 	height: 30px;
 	padding-right: 5px;
-}
-
-/*
-	Resume page
-				*/
-
-#resume-contents {
-	margin: 0px 20px 10px 20px;
-}
-
-#resume-contents p {
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
-#resume-contents ul {
-	margin-top: 0px;
-	margin-bottom: 0px;
-}
-
-.resume-heading {
-	font-weight: bold;
-}
-
-.resume-left {
-	float: left;
-}
-
-.resume-right {
-	float: right;
-}
-
-.resume-ital {
-	font-style: italic;
-}
-
-#skills-table {
-	display: flex;
-}
-
-#skills-table div {
-	width: 150px;
 }

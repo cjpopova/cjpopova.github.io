@@ -11,4 +11,4 @@ Between UMD and NU, I spent [2 years in industry at Epic](https://www.linkedin.c
 - caspar at umd dot edu
 - casparpopova2023 at u dot northwestern dot edu
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&src=Y2FzcGFyQHVtZC5lZHU&src=Y18zODMwNDA0ZDk3MmVjMzFmNmE3NWFlOTc1YTRjZGQ0MWY2YTJiYjQzNjljYzU3MTUzNTE4ZWNmZmI2MjY3MTE2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=dW1kaG9saWRheWNhbEB1bWQuZWR1&color=%23039BE5&color=%23616161&color=%2333B679&color=%23795548&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&bgcolor=%23ffffff&showTitle=0&showPrint=0&showCalendars=0&src=Y2FzcGFyQHVtZC5lZHU&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

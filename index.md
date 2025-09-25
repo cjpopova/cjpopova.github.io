@@ -13,7 +13,6 @@ Previously, I was advised by [Christos Dimoulas](https://users.cs.northwestern.e
 
 Between UMD and NWU, I spent [2 years in industry at Epic](https://www.linkedin.com/in/caspar-popova/) with Healthy Planet (population health) Analytics. 
 
-## Other
 Have we met before? I'd love to hear from you!
 I was at:
 - POPL 2025 @ Denver (student volunteer)

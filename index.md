@@ -1,7 +1,7 @@
 ## About me
 I am a second-year Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulas](https://lemonidas.github.io/). 
 
-I am broadly interested in contracts, property based testing, and compilers. I am currently working on random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. 
+I am broadly interested in compilers, property based testing, and contracts. I am currently working on random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. [Here](https://cjpopova.github.io/_site/assets/docs/sized-types-slides-2025-09-18.pdf) are slides from a tutorial talk on sized typing I gave.
 
 ## News
 I am currently looking for summer 2026 internships!
@@ -15,6 +15,7 @@ Between UMD and NWU, I spent [2 years in industry at Epic](https://www.linkedin.
 
 Have we met before? I'd love to hear from you!
 I was at:
+- NJPLS May 2025 @ Jane Street
 - POPL 2025 @ Denver (student volunteer)
 - OPLSS 2022 @ Oregon
 - OOPSLA 2021 @ Chicago

@@ -1,10 +1,10 @@
 ## About me
 I am a second-year Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulas](https://lemonidas.github.io/). 
 
-I am broadly interested in compilers, property based testing, and contracts. I am currently working on random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. [Here](https://cjpopova.github.io/_site/assets/docs/sized-types-slides-2025-09-18.pdf) are slides from a tutorial talk on sized typing I gave.
+I am broadly interested in compilers, property based testing, and contracts. I am currently working on random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. [Here](https://cjpopova.github.io/assets/docs/sized-types-slides-2025-09-18.pdf) are slides from a tutorial talk on sized typing I gave.
 
 ## News
-I am currently looking for summer 2026 internships!
+I am currently looking for summer 2026 internships! → [My C.V.](https://cjpopova.github.io/assets/docs/caspar-popova-f25-cv.pdf) ←
 
 ## More information
 My work is supported by the NSF (CSGrad4US award #2313998): I am a [2023 NSF CSGrad4US Fellow](https://new.nsf.gov/cise/graduate-fellowships). I encourage any undergraduate or master's students who are planning to do a Ph.D. after an industry break to apply to this fellowship & mentorship program.

@@ -1,7 +1,9 @@
 ## About me
 I am a second-year Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulas](https://lemonidas.github.io/). 
 
-I am broadly interested in compilers, property based testing, and contracts. I am currently working on random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. [Here](https://cjpopova.github.io/assets/docs/sized-types-slides-2025-09-18.pdf) are slides from a tutorial talk on sized typing I gave.
+I am broadly interested in compilers, testing, program synthesis, and Racket-y things like contracts. I am currently working on:
+1. [Compiler testing with sized types](https://github.com/cjpopova/sized-generator): Random testing recursion-related optimizations in compilers. My goal is to build a program generator of recursive programs by using sized typing to ensure termination. [Here](https://cjpopova.github.io/assets/docs/sized-types-slides-2025-09-18.pdf) are slides from a tutorial talk on sized typing I gave.
+2. [Recursion for HLS](https://github.com/cjpopova/bambu-recurse) in [PandA-Bambu](https://panda.deib.polimi.it/) (work with Andrew Kim).
 
 ## News
 I am currently looking for summer 2026 internships! → [My C.V.](https://cjpopova.github.io/assets/docs/caspar-popova-f25-cv.pdf) ←
@@ -20,4 +22,4 @@ I was at:
 - OPLSS 2022 @ Oregon
 - OOPSLA 2021 @ Chicago
 
-Last updated: 9/24/2025
+Last updated: 11/13/2025

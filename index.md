@@ -1,9 +1,9 @@
 ## About me
 I am a Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulas](https://lemonidas.github.io/) (started fall 2024). 
 
-My research is focus primarily compilers and testing. I am also broadly interested in program synthesis and Racket-y things like contracts. I am currently working on:
+My research focus is compilers and testing. I am also broadly interested in program synthesis and Racket-y things like contracts. I am currently working on:
 1. Does Rust compile volatile correctly? Testing that rustc compiles volatile code for embedded devices correctly by combining binary instrumentation testing with random program generation. This work started as an intern project at Sandia National Laboratories with [John Bender](https://www.johnbender.us/).
-    - [October 2025 SSNL talk at SLASH-ISSTA](https://cjpopova.github.io/assets/docs/UUR_Rust_Compiler_Volatiler_SSNL2026.pdf)
+    - [October 2026 SSNL talk at SLASH-ISSTA](https://cjpopova.github.io/assets/docs/UUR_Rust_Compiler_Volatiler_SSNL2026.pdf)
 2. [Compiler testing with sized types](https://github.com/cjpopova/sized-generator): Testing recursion optimization in compilers by developing a program generator of terminating recursive programs using sized types.
     - [December 2025 NJPLS talk](https://cjpopova.github.io/assets/docs/2025-NJPLS-Compiler-Testing-with-Sized-Types.pdf)
     - [October 2025 tutorial talk on sized typing](https://cjpopova.github.io/assets/docs/sized-types-slides-2025-09-18.pdf)

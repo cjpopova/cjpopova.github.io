@@ -1,12 +1,16 @@
 ## About me
-I am a Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulas](https://lemonidas.github.io/) (started fall 2024). 
+I am a Ph.D. student in the [Lab for Programming Languages at the University of Maryland (PLUM)](https://plum-umd.github.io/) advised by [David Van Horn](https://www.cs.umd.edu/~dvanhorn/index.html) and [Leo Lampropoulos](https://lemonidas.github.io/) (started fall 2024). 
 
 My research focus is compilers and testing. I am also broadly interested in program synthesis and Racket-y things like contracts. I am currently working on:
-1. Does Rust compile volatile correctly? Testing that rustc compiles volatile code for embedded devices correctly by combining binary instrumentation testing with random program generation. This work started as an intern project at Sandia National Laboratories with [John Bender](https://www.johnbender.us/).
-    - [October 2026 SSNL talk at SLASH-ISSTA](https://cjpopova.github.io/assets/docs/UUR_Rust_Compiler_Volatiler_SSNL2026.pdf)
-2. [Compiler testing with sized types](https://github.com/cjpopova/sized-generator): Testing recursion optimization in compilers by developing a program generator of terminating recursive programs using sized types.
+1. Testing the OxCaml compiler by defining specifications for layouts and developing generation strategies for moded programs.
+    - More details TBD!
+2. Does Rust compile volatile correctly? Testing that rustc compiles volatile code for embedded devices correctly by combining binary instrumentation testing with random program generation. This work started as an intern project at Sandia National Laboratories with [John Bender](https://www.johnbender.us/).
+    - [October 2026 SSNL talk at SLASH-ISSTA](https://cjpopova.github.io/assets/docs/UUR_Rust_Compiler_Volatile_SSNL2026.pdf)
+3. [Compiler testing with sized types](https://github.com/cjpopova/sized-generator): Testing recursion optimization in compilers by developing a program generator of terminating recursive programs using sized types.
     - [December 2025 NJPLS talk](https://cjpopova.github.io/assets/docs/2025-NJPLS-Compiler-Testing-with-Sized-Types.pdf)
     - [October 2025 tutorial talk on sized typing](https://cjpopova.github.io/assets/docs/sized-types-slides-2025-09-18.pdf)
+4. A Learned Cost Model for PyTorch Kernel Fusion: Replacing PyTorch’s heuristic kernel fusion ranking strategy with a learned cost model using the
+program’s memory behavior and compute characteristics.
 
 The best way to reach me outside UMD is by email (I don't check socials). You can find more of my work on [my C.V.](https://cjpopova.github.io/assets/docs/caspar-popova-f26-cv.pdf)
 
@@ -21,10 +25,10 @@ Have we met before? I'd love to hear from you!
 I was at:
 - SSNL (SPLASH-ISSTA) 2026 @ Oakland, CA (Talk: [Does Rust Compiler Volatile Correctly?](https://conf.researchr.org/details/splash-issta-2026/ssnl-2026-papers/6/Caspar-Popova))
 - NJPLS May 2026 @ University of Pennsylvania
-- NJPLS December 2025 @ Princeton (Talk: [Compiler Testing with Sized Types](https://cjpopova.github.io/assets/docs/2025-NJPLS-Compiler-Testing-with-Sized-Types.pdf))
+- NJPLS December 2025 @ Princeton (Talk: [Compiler Testing with Sized Types](https://njpls.org/dec2025.html))
 - NJPLS May 2025 @ Jane Street
 - POPL 2025 @ Denver, Colorado (student volunteer)
 - OPLSS 2022 @ Eugene, Oregon
 - OOPSLA 2021 @ Chicago, Illinios (my hometown!)
 
-Last updated: 10/3/2026
+Last updated: 11/9/2026
